@@ -65,9 +65,6 @@ module.exports = {
           foreground: "hsl(var(--card-foreground))",
         },
       },
-      fontFamily: {
-        IBMPlex: ["var(--font-ibm-plex)"],
-      },
       backgroundImage: {
         "purple-gradient": "url('/assets/images/gradient-bg.svg')",
         banner: "url('/assets/images/banner-bg.png')",
